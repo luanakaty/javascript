@@ -33,7 +33,7 @@ function Verificar() {
               // criança
               img.setAttribute('src', 'criança.menina.png')
            } else if (idade >= 10 && idade < 21) {
-                 // Jovem
+                 // Jo vem
                  img.setAttribute('src', 'jovem.mulher.png')
            } else if (idade > 21 && idade < 50 ){
                 // Adulto
